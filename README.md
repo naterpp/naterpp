@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on cybersecurity and secure devOps curriculum training. Connect with me if you ideas or resources to share.
+I'm currently working on cybersecurity and secure devOps curriculum training. Connect with me if you have ideas or resources to share.
